@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/Copy_Icon.ico</file>
+        <file>Icons/Cut_Icon.ico</file>
+        <file>Icons/Exit_Icon.ico</file>
+        <file>Icons/New_Icon.ico</file>
+        <file>Icons/Open_Icon.ico</file>
+        <file>Icons/Paste_Icon.ico</file>
+        <file>Icons/Save_Icon.ico</file>
+        <file>Icons/Print_Icon.ico</file>
+        <file>Icons/bringtofront.ico</file>
+        <file>Icons/delete.ico</file>
+        <file>Icons/sendtoback.ico</file>
+    </qresource>
+</RCC>
